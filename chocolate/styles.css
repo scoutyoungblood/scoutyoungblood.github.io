@@ -1,0 +1,28 @@
+body{
+    background-color: #80403B;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+div {
+    background-color:antiquewhite ;
+    width: 70%;
+    margin: auto;
+    padding: 5px 10px;
+    border-radius: 5px;
+
+}
+    
+h1{
+        color:#806361;  
+        text-align: center; 
+}
+
+h2{
+    color:#FF8175;
+    text-align: center;
+}
+
+p{
+    color:#CC9F9B;
+}
+
